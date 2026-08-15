@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ENVYHUBPVP/PVP/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/api-jnkie-com/script/main/gggg.lua"))()
